@@ -13,6 +13,8 @@ Este projeto é uma página web informativa sobre locais turísto no recife anti
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
 
 ## 💻 Como foi Desenvolvido
 O projeto foi desenvolvido utilizando HTML para a estrutura da página e CSS para estilos e layout. Foram aplicadas boas práticas de design responsivo para garantir uma experiência consistente em dispositivos de diferentes tamanhos.
