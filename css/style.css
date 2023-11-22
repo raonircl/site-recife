@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: aquamarine;
+    background-color: rgba(211, 252, 238, 0.651);
     margin: 0;
     padding: 0;
     display: flex;
@@ -21,15 +21,31 @@ main {
     text-align: center;
     flex: 1;
     padding: 20px;
+    margin-bottom: 200px;
 }
 
 img {
     max-width: 100%;
     height: auto;
+    border-radius: 5px;
+    box-shadow: 12px 12px 2px rgba(0, 0, 0, 0.3), -2px -2px 4px rgba(0, 0, 0, 0.8);
+    margin-bottom: 20px;
 }
 
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+.section-container {
+    margin-top: 50px;
+}
+
+#img-maps {
+    margin-top: 20px;
+    width: 60px;
+    height: auto;
+    box-shadow: none;
+    cursor: pointer;
 }
