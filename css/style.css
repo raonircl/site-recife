@@ -86,3 +86,22 @@ h1 {
     box-shadow: none;
     cursor: pointer;
 }
+
+@media only screen and (max-width: 768px) {
+    .header-container h2 {
+        font-size: 30px;
+    }
+
+    .header-container img{
+        width: 80px;
+        top: 65px;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
