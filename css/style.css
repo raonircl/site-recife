@@ -97,11 +97,16 @@ h1 {
         top: 65px;
     }
 
-    img {
-        max-width: 100%;
+    #header-marco-zero img{
+        width: 80px;
+        top: 28px;
     }
 
     footer {
         font-size: 14px;
+    }
+
+    img {
+        max-width: 100%;
     }
 }
