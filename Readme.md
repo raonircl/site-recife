@@ -31,14 +31,39 @@ Layout responsivo para se adaptar a telas de diferentes dispositivos.
 ## Como Executar o Projeto
 Basta abrir o arquivo index.html em um navegador web para visualizar a página.
 
-## Autor
+## Instalação
 
-- [Seu Nome]
+1. **Clone o Repositório:**
+    ```bash
+    git clone https://github.com/seu-usuario/site-recife.git
+    ```
+
+2. **Navegue até o Diretório:**
+    ```bash
+    cd site-recife
+    ```
+
+3. **Abra o Arquivo HTML:**
+    Abra o arquivo `index.html` em seu navegador preferido.
+
+## Uso
+
+Explore lugares turísticos do recife antigo por meio da interface amigável. Utilize os botões de navegação nas seções para visualizar as imagens e informações de cada destino.
+
+## Contribuição
+
+Sinta-se à vontade para contribuir para o projeto! Se você deseja adicionar novos destinos, melhorar o design ou corrigir bugs, siga os passos abaixo:
+
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
+3. Faça commit de suas mudanças (`git commit -am 'Adiciona nova feature'`).
+4. Faça push para a branch (`git push origin feature/nova-feature`).
+5. Abra um pull request.
 
 ## Licença
 
-Este projeto está sob a licença [Nome da Licença] - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+Este projeto está licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo `LICENSE` para obter mais detalhes.
 
-## Agradecimentos
+---
 
-- Este projeto foi desenvolvido como parte do curso de frontend da Proz.
+**© 2023 Recife Antigo.** Projeto desenvolvido no curso de frontend da Proz.
