@@ -22,11 +22,10 @@ main {
     text-align: center;
     flex: 1;
     padding: 20px;
-    /* margin-bottom: 200px; */
 }
 
 img {
-    max-width: 100%;
+    max-width: 600px;
     height: auto;
     border-radius: 5px;
     box-shadow: 12px 12px 2px rgba(0, 0, 0, 0.3), -2px -2px 4px rgba(0, 0, 0, 0.8);
