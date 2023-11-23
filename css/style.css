@@ -14,7 +14,7 @@ header, footer {
     color: #fff;
     text-align: center;
     padding: 1em;
-    width: 100%;
+    /* width: 100%; */
 }
 
 .header-container img{
@@ -46,6 +46,7 @@ header, footer {
     align-items: center;
     padding: 10px;
     position: relative;
+    width: 100%;
 }
 
 main {
@@ -68,6 +69,7 @@ img {
 footer {
     display: block;
     bottom: 0;
+    width: 99%;
 }
 
 h1 {
